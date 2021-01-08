@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="NOT TURU BOT" src="https://naufalhoster.xyz/textmaker/thunder?apikey=demo-apikey&text=NOT+TURU+BOT"></a>
+<a href="#"><img title="NOT TURU BOT" src="https://naufalhoster.xyz/media/thunder/not-turu-bot.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
