@@ -9,7 +9,7 @@
 <a href="https://github.com/bangnopal"><img title="Modificated by Bang Nopal" src="https://img.shields.io/badge/Modificated%20by-Naufal-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/bangnopal/followers"><img title="Followers" src="https://img.shields.io/github/followers/not-turu-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/bangnopal"><img title="Followers" src="https://img.shields.io/github/followers/bangnopal?color=blue&style=flat-square"></a>
 <a href="https://github.com/bangnopal"><img title="Stars" src="https://img.shields.io/github/stars/bangnopal/not-turu-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/bangnopal"><img title="Forks" src="https://img.shields.io/github/forks/bangnopal/not-turu-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/bangnopal"><img title="Watching" src="https://img.shields.io/github/watchers/bangnopal/not-turu-bot?label=Watchers&color=blue&style=flat-square"></a>
@@ -111,58 +111,9 @@ after running it you need to scan the qr
 - [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
 
 ---
-## 120+ Feature
+## 140+ Feature
 
-| Sticker Creator |              Feature            |
-| :-------------: | :-----------------------------: |
-|       ✅        | Sticker With Image              |
-|       ✅        | Sticker With Gif                |
-|       ✅        | Sticker With Image Url          |                   |
-|       ✅        | Sticker With Gif Url            |
-|       ✅        | Sticker With Fire Gif           |
-|       ✅        | Sticker With Lightning Gif      |
-|       ✅        | Image To Sticker.               |
-|       ✅        | Text To Picture                 |
-|       ✅        | Text To Gif                     |
-
-|.  Downloader    |              Feature            |
-| :-------------: | :-----------------------------: |
-|       ✅        |  YouTube Video/Audio Downloader |
-|       ✅        |  Doujin Downloader              |
-|       ✅        |  XVideos Downloader             |
-|       ✅        | Instagram Video/Image Downloader|
-|       ✅        |  Facebook Video Downloader      |
-|       ✅        |  Tiktok Downloader              |
-|       ✅        |  Twitter Downloader             |
-|       ✅        |  Smule Mp3 Downloader           |
-|       ✅        |  Starmaker Video Downloader     |
-|       ✅        |  Xnxx Video Downloader          |
-|       ✅        |  Joox Downloader                |
-|       ✅        |  Play Music                     |
-
-|      Prayer     |             Feature             |
-| :-------------: | :-----------------------------: |
-|       ✅        |   Jadwalsholat                  |
-|       ✅        |   List Daerah                   |
-|       ✅        |   Al-Quran                      |
-|       ✅        |   Infosurah                     |
-|       ✅        |   List Surah                    |
-|       ✅        |   Tafsir Ayat                   |
-
-|  Kerang Ajaib   |             Feature             |
-| :-------------: | :-----------------------------: |
-|       ✅        |   Apakah                        |
-|       ✅        |   Bisakah                       |
-|       ✅        |   Rate                          |
-|       ✅        |   Kapankah                      |
-
-|  Tebak-Tebakan  |              Feature            |
-| :-------------: | :-----------------------------: |
-|       ✅        |   Family100                     |
-|       ✅        |   Tebak Gambar                  |
-|       ✅        |   Cak Lontong                   |
-
-|      Media      |             Feature             |
+|      FUN MENU      |             Feature             |
 | :-------------: | :-----------------------------: |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
@@ -220,6 +171,54 @@ after running it you need to scan the qr
 |       ✅        |   Get a random dog images       |
 |      And        |   Others...                     |
 
+| Sticker Creator |              Feature            |
+| :-------------: | :-----------------------------: |
+|       ✅        | Sticker With Image              |
+|       ✅        | Sticker With Gif                |
+|       ✅        | Sticker With Image Url          |                   |
+|       ✅        | Sticker With Gif Url            |
+|       ✅        | Sticker With Fire Gif           |
+|       ✅        | Sticker With Lightning Gif      |
+|       ✅        | Image To Sticker.               |
+|       ✅        | Text To Picture                 |
+|       ✅        | Text To Gif                     |
+
+|.  Downloader    |              Feature            |
+| :-------------: | :-----------------------------: |
+|       ✅        |  YouTube Video/Audio Downloader |
+|       ✅        |  Doujin Downloader              |
+|       ✅        |  XVideos Downloader             |
+|       ✅        | Instagram Video/Image Downloader|
+|       ✅        |  Facebook Video Downloader      |
+|       ✅        |  Tiktok Downloader              |
+|       ✅        |  Twitter Downloader             |
+|       ✅        |  Smule Mp3 Downloader           |
+|       ✅        |  Starmaker Video Downloader     |
+|       ✅        |  Xnxx Video Downloader          |
+|       ✅        |  Joox Downloader                |
+|       ✅        |  Play Music                     |
+
+|      Prayer     |             Feature             |
+| :-------------: | :-----------------------------: |
+|       ✅        |   Jadwalsholat                  |
+|       ✅        |   List Daerah                   |
+|       ✅        |   Al-Quran                      |
+|       ✅        |   Infosurah                     |
+|       ✅        |   List Surah                    |
+|       ✅        |   Tafsir Ayat                   |
+
+|  Kerang Ajaib   |             Feature             |
+| :-------------: | :-----------------------------: |
+|       ✅        |   Apakah                        |
+|       ✅        |   Bisakah                       |
+|       ✅        |   Rate                          |
+|       ✅        |   Kapankah                      |
+
+|  Tebak-Tebakan  |              Feature            |
+| :-------------: | :-----------------------------: |
+|       ✅        |   Family100                     |
+|       ✅        |   Tebak Gambar                  |
+|       ✅        |   Cak Lontong                   |
 
 |   Group Only    |              Feature            |
 | :-------------: | :-----------------------------: |
