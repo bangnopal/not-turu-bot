@@ -115,6 +115,26 @@ after running it you need to scan the qr
 
 |      FUN MENU      |             Feature             |
 | :-------------: | :-----------------------------: |
+|       ✅        |   Avenger text maker             |
+|       ✅        |   Marvel text maker           |
+|       ✅        |   Warface textmaker             |
+|       ✅        |   Crossfire text maker             |
+|       ✅        |   Pentakill text maker             |
+|       ✅        |   PUBG logo generator             |
+|       ✅        |   CSGO text maker             |
+|       ✅        |   Baju sepak bola generator             |
+|       ✅        |   Rainbow text maker             |
+|       ✅        |   Facebook Golden Play Button             |
+|       ✅        |   Bokeh text maker             |
+|       ✅        |   Naruto text maker             |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Harta tahta maker             |
+|       ✅        |   Glitch text maker             |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Battlefield text maker             |
+|       ✅        |   Harry Potter text maker             |
+|       ✅        |   Einstein writing             |
+|       ✅        |   Spiderman text maker             |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
 |       ✅        |   Get a random bokep.           |
@@ -138,26 +158,6 @@ after running it you need to scan the qr
 |       ✅        |   Subreddit                     |
 |       ✅        |   Lyrics                        |
 |       ✅        |   Textmaker                     |
-|       ✅        |   Avenger text maker             |
-|       ✅        |   Marvel text maker           |
-|       ✅        |   Warface textmaker             |
-|       ✅        |   Crossfire text maker             |
-|       ✅        |   Pentakill text maker             |
-|       ✅        |   PUBG logo generator             |
-|       ✅        |   CSGO text maker             |
-|       ✅        |   Baju sepak bola generator             |
-|       ✅        |   Rainbow text maker             |
-|       ✅        |   Facebook Golden Play Button             |
-|       ✅        |   Bokeh text maker             |
-|       ✅        |   Naruto text maker             |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Harta tahta maker             |
-|       ✅        |   Glitch text maker             |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Battlefield text maker             |
-|       ✅        |   Harry Potter text maker             |
-|       ✅        |   Einstein writing             |
-|       ✅        |   Spiderman text maker             |
 |       ✅        |   Instagram Stalk               |
 |       ✅        |   Tiktok Stalk                  |
 |       ✅        |   Smule Stalk                   |
