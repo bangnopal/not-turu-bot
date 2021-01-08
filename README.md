@@ -9,10 +9,10 @@
 <a href="https://github.com/bangnopal"><img title="Modificated by Bang Nopal" src="https://img.shields.io/badge/Modificated%20by-Naufal-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/bangnopal/followers"><img title="Followers" src="https://img.shields.io/github/followers/not-turu-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/bangnopal"><img title="Stars" src="https://img.shields.io/github/stars/bangnopal/not-turu-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/bangnopal"><img title="Forks" src="https://img.shields.io/github/forks/bangnopal/not-turu-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/bangnopal"><img title="Watching" src="https://img.shields.io/github/watchers/bangnopal/not-turu-bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
    <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -33,8 +33,9 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
+- [TELEGRAM](https://t.me/naufal_fattah)
 - [WHATSAPP](https://wa.me/6289515746253)
+
 - [ELAINA BOT](wa.me/447418349954)
 - [WHATSAPP GROUP](https://chat.whatsapp.com/H4dJ6YT7jDJG0xzRrB36sn)
 
@@ -186,6 +187,26 @@ after running it you need to scan the qr
 |       ✅        |   Subreddit                     |
 |       ✅        |   Lyrics                        |
 |       ✅        |   Textmaker                     |
+|       ✅        |   Avenger text maker             |
+|       ✅        |   Marvel text maker           |
+|       ✅        |   Warface textmaker             |
+|       ✅        |   Crossfire text maker             |
+|       ✅        |   Pentakill text maker             |
+|       ✅        |   PUBG logo generator             |
+|       ✅        |   CSGO text maker             |
+|       ✅        |   Baju sepak bola generator             |
+|       ✅        |   Rainbow text maker             |
+|       ✅        |   Facebook Golden Play Button             |
+|       ✅        |   Bokeh text maker             |
+|       ✅        |   Naruto text maker             |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Harta tahta maker             |
+|       ✅        |   Glitch text maker             |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Battlefield text maker             |
+|       ✅        |   Harry Potter text maker             |
+|       ✅        |   Einstein writing             |
+|       ✅        |   Spiderman text maker             |
 |       ✅        |   Instagram Stalk               |
 |       ✅        |   Tiktok Stalk                  |
 |       ✅        |   Smule Stalk                   |
